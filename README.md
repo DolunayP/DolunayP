@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolunayp&show_icons=true&locale=en&layout=compact" alt="dolunayp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolunayp&show_icons=true&locale=en" alt="dolunayp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dolunayp&" alt="dolunayp" /></p>
