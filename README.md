@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolunayp&label=Profile%20views&color=0e75b6&style=flat" alt="dolunayp" /> </p>
 
-- 🌱 I’m currently improving **React**
+- 🌱 I’m currently using **React.js**
 
 - 👨‍💻 Many of my projects are available at [https://dolunaypazarci.netlify.app](https://dolunaypazarci.netlify.app)
 
